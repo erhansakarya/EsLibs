@@ -1,2 +1,2 @@
-stts22h: symbol
+stts22h: symbol - footprint
 cp102n: symbol
